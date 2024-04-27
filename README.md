@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a passionate Website designer & Front-End developer. My goal is to teach and create beautiful, modern and topnotch user interfaces that are easy to use and more friendly for users.
+
 <!--
 **codesignerd/codesignerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
